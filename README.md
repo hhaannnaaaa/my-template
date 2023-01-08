@@ -1,7 +1,4 @@
-# Code Institute
+# My very first website
 
-Welcome USER_NAME,
+Welcome! [Code Institute](http://codeinstitute.net)
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
